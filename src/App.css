@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+.banner{
+  background: linear-gradient(rgba(22, 22, 22, 0.364), black);
+  width: 100%;
+  height: 80vh;
+  background-repeat: no-repeat;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
